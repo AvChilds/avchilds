@@ -41,8 +41,8 @@ Welcome to my GitHub! I'm a career switcher with a growing portfolio in software
 
 ### Data Science Projects
 - 📈 **Data Science Portfolio** – Stock Analysis and Prediction of S&P500 Companies - 
-> Role: Project Manager : Implemented Agile strategies as a project leader
-> Showcase data cleaning, EDA, visualisation, and predictive modelling group project.
+  > Role: Project Manager : Implemented Agile strategies as a project leader. Features analysed: PEG Ratio, CFO Growth. It showcase data cleaning, EDA, visualisation, and predictive modelling group project.
+
   
 - 🏘️ **SQL PropertyDB** – [GitHub Repo](https://github.com/AvChilds/SQL-PropertyDB)  
   > A database system built for a fictional Essex-based short-term lettings company. It tracks towns, property listings, and bookings using SQL queries, constraints, views, and stored procedures. Includes data cleaning, JOINs, and revenue analysis using custom SQL functions!

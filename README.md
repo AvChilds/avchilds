@@ -3,11 +3,11 @@
 # Hi there, I'm Avril 👋
 
 Welcome to my GitHub! I'm a career switcher with a growing portfolio in software engineering and data science. I have a background in teaching, property (real estate), business development and healthcare.
---- 
+
 
 ## 🧠 About Me
 
-- 🎓 Recently completed the _[Code First Girls (CFG)](https://codefirstgirls.com/)_ Degree in Software Engineering and Data Science and the +Masters programme in AI and Machine Learning.
+- 🎓 Recently completed the _[Code First Girls (CFG)](https://codefirstgirls.com/)_ Degree in Software Engineering and Data Science and the +Masters programme in AI and Machine Learning under sponsorship by Cognizant
 - 🎓 Honours Degree in Nursing from King's College London
 - 🎓 PostGraduate (Level 7) Certificate in Humanities 
 - 💻 Other CFG tech courses completed:
@@ -17,6 +17,7 @@ Welcome to my GitHub! I'm a career switcher with a growing portfolio in software
   - Web Development (HTML, CSS, JavaScript)
   - MOOCs: Introduction to Cloud, Agile and Scrum, and C#
 - 🧠 Love solving problems and building practical tools for people!
+
 --- 
 
 ## 💻 Languages & Tools
@@ -40,8 +41,8 @@ Welcome to my GitHub! I'm a career switcher with a growing portfolio in software
 
 ### Data Science Projects
 - 📈 **Data Science Portfolio** – Stock Analysis and Prediction of S&P500 Companies - 
-  > Role: Project Manager : Implemented Agile strategies as a project leader
-  > Showcase data cleaning, EDA, visualisation, and predictive modelling group project.
+> Role: Project Manager : Implemented Agile strategies as a project leader
+> Showcase data cleaning, EDA, visualisation, and predictive modelling group project.
   
 - 🏘️ **SQL PropertyDB** – [GitHub Repo](https://github.com/AvChilds/SQL-PropertyDB)  
   > A database system built for a fictional Essex-based short-term lettings company. It tracks towns, property listings, and bookings using SQL queries, constraints, views, and stored procedures. Includes data cleaning, JOINs, and revenue analysis using custom SQL functions!
@@ -51,20 +52,18 @@ Welcome to my GitHub! I'm a career switcher with a growing portfolio in software
 
 - 🌐 **Brit City Score Website** – [Live Site](https://avchilds.github.io/BritCityScoreWebsite/) | [GitHub Repo](https://github.com/avchilds/BritCityScoreWebsite)
 
-> A simple and fun web app created as part of the CFG Web Development course using HTML, CSS and JavaScript.
+> First attempt at building my own website: A simple and fun web app created as part of the CFG Web Development course using HTML, CSS and JavaScript.
 
 ### Software Engineering Projects
 
 - 🧙‍♂️ **Hogwarts Wizard Game** – [GitHub Repo](https://github.com/avchilds/python_hogwarts)  
 > A magical Python game using APIs and randomness to generate your own wizard identity and assign you a friend from the wizarding world. Created during my CFG Python course – expect spells, surprises, and plenty of Hogwarts charm!
 
-
-
 ---
 
-## 📫 Connect with Me
+## 📫 Connect with Me on LinkedIn
 
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/avrilchilds/)
-- GitHub: [github.com/avchilds](https://github.com/avchilds)
+
 
 Thanks for visiting! 😊

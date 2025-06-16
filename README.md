@@ -3,20 +3,22 @@
 # Hi there, I'm Avril 👋
 
 Welcome to my GitHub! I'm a career switcher with a growing portfolio in software engineering and data science. I have a background in teaching, property (real estate), business development and healthcare.
+--- 
 
 ## 🧠 About Me
 
-- 🎓 Recently completed the _[Code First Girls (CFG)](https://codefirstgirls.com/)_ Degree in Software Engineering and Data Science.
-- 🎓 Now progressing to the +Masters programme in AI and Machine Learning.
-- 🎓 Honours Degree in Nursing.
+- 🎓 Recently completed the _[Code First Girls (CFG)](https://codefirstgirls.com/)_ Degree in Software Engineering and Data Science and the +Masters programme in AI and Machine Learning.
+- 🎓 Honours Degree in Nursing from King's College London
 - 🎓 PostGraduate (Level 7) Certificate in Humanities 
 - 💻 Other CFG tech courses completed:
+  - Business Analysis 
   - Python Programming
   - Data Science and SQL
   - Web Development (HTML, CSS, JavaScript)
   - MOOCs: Introduction to Cloud, Agile and Scrum, and C#
 - 🧠 Love solving problems and building practical tools for people!
- 
+--- 
+
 ## 💻 Languages & Tools
 
 <p align="left">
@@ -29,10 +31,18 @@ Welcome to my GitHub! I'm a career switcher with a growing portfolio in software
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="40" height="40"/>
 </p>
+---
 
-## 🌟 Featured Projects
+##  Featured Projects
+
+### Machine Learning Project
+
 
 ### Data Science Projects
+- 📈 **Data Science Portfolio** – Stock Analysis and Prediction of S&P500 Companies - 
+  > Role: Project Manager : Implemented Agile strategies as a project leader
+  > Showcase data cleaning, EDA, visualisation, and predictive modelling group project.
+  
 - 🏘️ **SQL PropertyDB** – [GitHub Repo](https://github.com/AvChilds/SQL-PropertyDB)  
   > A database system built for a fictional Essex-based short-term lettings company. It tracks towns, property listings, and bookings using SQL queries, constraints, views, and stored procedures. Includes data cleaning, JOINs, and revenue analysis using custom SQL functions!
 
@@ -48,13 +58,7 @@ Welcome to my GitHub! I'm a career switcher with a growing portfolio in software
 - 🧙‍♂️ **Hogwarts Wizard Game** – [GitHub Repo](https://github.com/avchilds/python_hogwarts)  
 > A magical Python game using APIs and randomness to generate your own wizard identity and assign you a friend from the wizarding world. Created during my CFG Python course – expect spells, surprises, and plenty of Hogwarts charm!
 
----
 
-## 📊 Tech & Data Projects
-
-- 📈 **Data Science Portfolio** (coming soon!) – Stock Analysis and Prediction of S&P500 Companies: will showcase data cleaning, EDA, visualisation, and predictive modelling project.
-- 🤖 **AI & ML Projects** (as part of the +Masters) – Stay tuned for exciting AI experiments!
-- 🧠 **Nursing & Health Data Analytics** – Combining clinical insights with tech tools.
 
 ---
 

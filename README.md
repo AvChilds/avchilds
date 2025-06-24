@@ -42,8 +42,8 @@ Welcome to my GitHub! I'm a career switcher with a growing portfolio in software
 ### Machine Learning Project
 
 
-### Data Science Projects (**COMING SOON**)
-- 📈 **Data Science Portfolio** – Stock Analysis and Prediction of S&P500 Companies - 
+### Data Science Projects 
+- 📈 **Data Science Portfolio** – Stock Analysis and Prediction of S&P500 Companies (**COMING SOON to my Github!**)
   > Role: Project Manager : Implemented Agile strategies as a project leader. Features analysed: PEG Ratio, CFO Growth. It showcase data cleaning, EDA, visualisation, and predictive modelling group project.
 
   

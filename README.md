@@ -7,9 +7,11 @@ Welcome to my GitHub! I'm a career switcher with a growing portfolio in software
 
 ## 🧠 About Me
 
-- 🎓 Recently completed the _[Code First Girls (CFG)](https://codefirstgirls.com/)_ Degree in Software Engineering and Data Science and the +Masters programme in AI and Machine Learning under sponsorship by Cognizant
+- 🎓 Recently completed the _[Code First Girls (CFG)](https://codefirstgirls.com/)_ Degree in Data Science and the +Masters programme in AI and Machine Learning under sponsorship by Cognizant
 - 🎓 Honours Degree in Nursing from King's College London
-- 🎓 PostGraduate (Level 7) Certificate in Humanities 
+- 🎓 PostGraduate (Level 7) Certificate in Humanities (Specialism: Music and Digital Humanities)
+- One of my passions is teaching and I love mentoring and coaching others!
+- Currently a teacher, but looking for new role in Data Science and related disciplines. 
 - 💻 Other CFG tech courses completed:
   - Business Analysis 
   - Python Programming
@@ -17,6 +19,7 @@ Welcome to my GitHub! I'm a career switcher with a growing portfolio in software
   - Web Development (HTML, CSS, JavaScript)
   - MOOCs: Introduction to Cloud, Agile and Scrum, and C#
 - 🧠 Love solving problems and building practical tools for people!
+- Next stop on my learning journey - upskilling in data engineering with AWS qualification. 
 
 --- 
 
@@ -39,7 +42,7 @@ Welcome to my GitHub! I'm a career switcher with a growing portfolio in software
 ### Machine Learning Project
 
 
-### Data Science Projects
+### Data Science Projects (**COMING SOON**)
 - 📈 **Data Science Portfolio** – Stock Analysis and Prediction of S&P500 Companies - 
   > Role: Project Manager : Implemented Agile strategies as a project leader. Features analysed: PEG Ratio, CFO Growth. It showcase data cleaning, EDA, visualisation, and predictive modelling group project.
 

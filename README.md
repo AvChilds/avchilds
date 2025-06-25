@@ -39,11 +39,11 @@ Welcome to my GitHub! I'm a career switcher with a growing portfolio in software
 
 ##  Featured Projects
 
-### Machine Learning Project
+### Machine Learning Project  (**coming soon**)
 
 
 ### Data Science Projects 
-- 📈 **Data Science Portfolio** – [Stock Analysis and Prediction of S&P500 Companies](https://github.com/AvChilds/stock_market_analysis_prediction)
+- 📈 **Stock Performance of S&P500 Companies - Analysis and Prediction** – [GitHub Repo](https://github.com/AvChilds/stock_market_analysis_prediction) | [Presentation Slides](https://www.canva.com/design/DAGm32Nyl2U/R-ClKuw9vvLPYIK4QIOh-Q/view?utm_content=DAGm32Nyl2U&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h2c35608976)
   > Role: Project Manager : Implemented Agile strategies as a project leader. Features analysed: PEG Ratio, ROA. It showcase data cleaning, EDA, visualisation, and predictive modelling group project.
 
   

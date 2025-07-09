@@ -51,12 +51,6 @@ Welcome to my GitHub! I'm a career switcher with a growing portfolio in software
   > A database system built for a fictional Essex-based short-term lettings company. It tracks towns, property listings, and bookings using SQL queries, constraints, views, and stored procedures. Includes data cleaning, JOINs, and revenue analysis using custom SQL functions!
 
 
-### Web Development Projects
-
-- 🌐 **Brit City Score Website** – [Live Site](https://avchilds.github.io/BritCityScoreWebsite/) | [GitHub Repo](https://github.com/avchilds/BritCityScoreWebsite)
-
-> First attempt at building my own website: A simple and fun web app created as part of the CFG Web Development course using HTML, CSS and JavaScript.
-
 ### Software Engineering Projects
 
 - 🧙‍♂️ **Hogwarts Wizard Game** – [GitHub Repo](https://github.com/avchilds/python_hogwarts)  

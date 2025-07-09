@@ -41,7 +41,7 @@ Welcome to my GitHub! I'm a career switcher with a growing portfolio in software
 
 ### Data Science/Machine Learning /A.I Projects 
 
-- 🏘️ **Shor** – [GitHub Repo](https://github.com/AvChilds/serviced_accommodation_ML_project)  
+- 🏘️ **Predicting High-Occupancy Short-Term Rentals: A Machine Learning Approach** – [GitHub Repo](https://github.com/AvChilds/serviced_accommodation_ML_project)  
   > A +masters final project using machine learning libraries and techniques, including preprocessing, optimisation and validation. Python Libraies used include Sci-Kit Learn, Keras and TensorFlow. The following models are featured: Logistic Regression, K-Nearest Neighbour, Random Forest, Support Vector Machine, Neural Networks.  
   
 - 📈 **Stock Performance of S&P500 Companies - Analysis and Prediction** – [GitHub Repo](https://github.com/AvChilds/stock_market_analysis_prediction) | [Presentation Slides](https://www.canva.com/design/DAGm32Nyl2U/R-ClKuw9vvLPYIK4QIOh-Q/view?utm_content=DAGm32Nyl2U&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h2c35608976)

@@ -1,4 +1,3 @@
-## TechTorty
 
 # Hi there, I'm Avril 👋
 

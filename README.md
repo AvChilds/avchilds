@@ -18,7 +18,7 @@ Welcome to my GitHub! I'm a career switcher with a growing portfolio in software
   - Web Development (HTML, CSS, JavaScript)
   - MOOCs: Introduction to Cloud, Agile and Scrum, and C#
 - 🧠 Love solving problems and building practical tools for people!
-- Next stop on my learning journey - upskilling in data engineering with AWS qualification. 
+- Next stop on my learning journey - upskilling in deploying ML projects and more full stack learning!
 
 --- 
 

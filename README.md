@@ -53,7 +53,7 @@ Welcome to my GitHub! I'm a career switcher with a growing portfolio in software
 
 ### Software Engineering Projects
 
-- **TT Shop Affiliate DB - Backend fullstack project** – [GitHub Repo](https://github.com/avchilds/tt_affiliate_fullstack)  
+- **TT Shop Affiliate DB - Backend fullstack project** – [GitHub Repo](https://github.com/avchilds/tt_affiliate_shop_fullstack)  
 > This is a backend fullstack project, simulating the tiktok shop affiliate programme, combining the use of mySQL, python and APIs.
 
 - 🧙‍♂️ **Hogwarts Wizard Game** – [GitHub Repo](https://github.com/avchilds/python_hogwarts)  

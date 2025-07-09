@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm a career switcher with a growing portfolio in software
 
 ## 🧠 About Me
 
-- 🎓 Recently completed the _[Code First Girls (CFG)](https://codefirstgirls.com/)_ Degree in Data Science and the +Masters programme in AI and Machine Learning under sponsorship by Cognizant
+- 🎓 Recently completed with distinctions in both the _[Code First Girls (CFG)](https://codefirstgirls.com/)_ Degree in Data Science and the +Masters programme in AI and Machine Learning under sponsorship by Cognizant
 - 🎓 BSc(Hons) Nursing Studies from King's College London under Singapore Government scholarship
 - 🎓 PostGraduate (Level 7) Certificate in Humanities (Open University, Specialism: Musicology and Digital Humanities)
 - One of my passions is teaching and I love mentoring and coaching others!

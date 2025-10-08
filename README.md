@@ -19,8 +19,8 @@ Welcome to my GitHub! I'm a career switcher with a growing portfolio in software
   - Data Science and SQL
   - Web Development (HTML, CSS, JavaScript)
   - MOOCs: Introduction to Cloud, Agile and Scrum, and C#
-- Next stops on my learning journey: Health Data Science, A/B testing, data engineering and cloud deployment
-- I am also looking to collaborate on projects - do
+- Next stops on my learning journey: data engineering and cloud deployment
+- I am also looking for project partnerships! Please connect if you would like to collaborate at techtorty@gmail.com
 
 --- 
 

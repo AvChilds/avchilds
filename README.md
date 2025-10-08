@@ -7,20 +7,19 @@ Welcome to my GitHub! I'm a career switcher with a growing portfolio in software
 ## 🧠 About Me
 
 - 🎓 Recently completed with distinctions in both the _[Code First Girls (CFG)](https://codefirstgirls.com/)_ Degree in Data Science and the +Masters programme in AI and Machine Learning under sponsorship by Cognizant
-- 🎓 BSc(Hons) Nursing Studies from King's College London under Singapore Government scholarship
-- 🎓 PostGraduate (Level 7) Certificate in Humanities (Open University, Specialism: Musicology and Digital Humanities)
-- I used to be a Clinical Nurse Specialist in tissue viability
-- One of my passions is teaching and I love mentoring and coaching others!
-- Looking for new role in Data Science and Machine Learning
-- While waiting for the right role, I am running our family's property business part-time and learning stock market investing
+- 🎓 BSc(Hons) Nursing Studies from King's College London with full scholarship
+- 🎓 PostGraduate (Level 7) Certificate in Humanities (Open University, Specialism: Digital Humanities)
+- I used to be a Clinical Nurse Specialist in tissue viability (wound care) and nursing quality
+- I am also a property investor and now recently launched into wealth management and stock market investing
+- Some of my transferable skills are  project management, customer service, teaching and coaching.
+- I am now looking for job opportunities in Data Science where I contribute to providing solutions using data in the real world.
 - 💻 Other CFG tech courses completed:
   - Business Analysis 
   - Python Programming
   - Data Science and SQL
   - Web Development (HTML, CSS, JavaScript)
   - MOOCs: Introduction to Cloud, Agile and Scrum, and C#
-- 🧠 Love solving problems and building practical tools for people!
-- Next stop on my learning journey - upskilling in deploying ML projects and more full stack learning!
+- Next stop on my learning journey - upskilling in data engineering and deploying ML projects
 
 --- 
 

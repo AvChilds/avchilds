@@ -12,7 +12,7 @@ Welcome to my GitHub! I'm a career switcher with a growing portfolio in software
 - I used to be a Clinical Nurse Specialist in tissue viability (wound care) and nursing quality
 - I am also a property investor and now recently launched into wealth management and stock market investing
 - Some of my transferable skills are  project management, customer service, teaching and coaching.
-- I am now looking for job opportunities in Data Science where I contribute to providing solutions using data in the real world.
+- I am now looking for job opportunities in Data Science where I contribute to providing insights and solutions using real world evidence and data
 - 💻 Other CFG tech courses completed:
   - Business Analysis 
   - Python Programming

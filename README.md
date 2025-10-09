@@ -1,26 +1,26 @@
+ ## 👋 Hi, I'm Avril
 
-# Hi there, I'm Avril 👋
+I’m a **Data Analyst and Machine Learning Practitioner** with a distinction in the **Code First Girls Data Science Nano Degree** and a strong professional background in healthcare.
 
-Welcome to my GitHub! I'm a career switcher with a growing portfolio in software engineering and data science. I have a background in teaching, property (real estate), business development and healthcare.
+My mission is to bridge the gap between **clinical understanding and data-driven insight** — using analytics and AI to improve outcomes, optimise operations, and support evidence-based decision making.
 
+I’ve applied my skills across **financial analytics, property prediction, and healthcare data projects**, combining **Python, SQL, scikit-learn, Power BI, and Tableau** to uncover patterns that drive smarter action.
 
-## 🧠 About Me
+🏥 **My healthcare background**
+Working within multidisciplinary healthcare environments taught me how to handle sensitive data responsibly, interpret complex datasets, and translate results for both technical and non-technical audiences. That experience now shapes my data science practice — from cleaning and validating data to communicating findings that truly matter.
 
-- 🎓 Recently completed with distinctions in both the _[Code First Girls (CFG)](https://codefirstgirls.com/)_ Degree in Data Science and the +Masters programme in AI and Machine Learning under sponsorship by Cognizant
-- 🎓 BSc(Hons) Nursing Studies from King's College London with full scholarship
-- 🎓 PostGraduate (Level 7) Certificate in Humanities (Open University, Specialism: Digital Humanities)
-- I used to be a Clinical Nurse Specialist in tissue viability (wound care) and nursing quality
-- I am also a property investor and now recently launched into wealth management and stock market investing
-- Some of my transferable skills are  project management, customer service, teaching and coaching.
-- I am now looking for job opportunities in Data Science where I contribute to providing insights and solutions using real world evidence and data
-- 💻 Other CFG tech courses completed:
-  - Business Analysis 
-  - Python Programming
-  - Data Science and SQL
-  - Web Development (HTML, CSS, JavaScript)
-  - MOOCs: Introduction to Cloud, Agile and Scrum, and C#
-- Next stops on my learning journey: data engineering and cloud deployment
-- I am also looking for project partnerships! Please connect if you would like to collaborate at techtorty@gmail.com
+🧠 **Key strengths**
+- End-to-end data analysis: from raw data to insights and dashboards 
+- Predictive modelling and feature engineering using Python & scikit-learn 
+- Database querying, joins, and optimisation with SQL 
+- Data storytelling and visualisation with Tableau & Power BI 
+- Commitment to privacy, ethics, and high data quality standards 
+
+🎯 **Current Focus:** Building reproducible ML pipelines and exploring AI applications in health analytics and operations.
+
+📚 **Certification:** Code First Girls Data Science Nano Degree – *Distinction* 
+💬 **Connect with me:** [LinkedIn](https://linkedin.com/in/avchilds)
+
 
 --- 
 

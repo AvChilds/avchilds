@@ -2,7 +2,7 @@
 
 I’m a **Data Scientist and Machine Learning Practitioner** with a distinction in the **Code First Girls Data Science Nano Degree** and a strong professional background in healthcare and property.
 
-My mission is to bridge the gap between **clinical understanding and data-driven insight** — using analytics and AI to improve outcomes, optimise operations, and support evidence-based decision making.
+My mission is to bridge the gap between **clinical understanding and data-driven insight** - using analytics and AI to improve outcomes, optimise operations, and support evidence-based decision making.
 
 I also have a strong background in **property and investment**, with a deep-seated interest in the application of machine learning and A.I tools to support and enhance deal sourcing and analysis. 
 

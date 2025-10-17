@@ -20,7 +20,8 @@ Working within multidisciplinary healthcare environments taught me how to handle
 
 🎯 **Current Focus:** Building reproducible ML pipelines and exploring AI applications in health analytics and operations.
 
-📚 **Certification:** Code First Girls Data Science Nano Degree – *Distinction* , BSc(HON)Nursing with Registration (King's College London) 
+📚 **Certification:** Code First Girls Data Science Nano Degree – *Distinction* , BSc(HON )Nursing with Registration (King's College London) 
+
 💬 **Connect with me:** [LinkedIn](https://linkedin.com/in/avchilds)
 
 --- 

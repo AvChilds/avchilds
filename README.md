@@ -55,7 +55,8 @@ Working within multidisciplinary healthcare environments taught me how to handle
 - 🏘️ **SQL PropertyDB** – [GitHub Repo](https://github.com/AvChilds/SQL-PropertyDB)  
   > A database system built for a fictional Essex-based short-term lettings company. It tracks towns, property listings, and bookings using SQL queries, constraints, views, and stored procedures. Includes data cleaning, JOINs, and revenue analysis using custom SQL functions!
 
--The **Global Health Database** models key health indicators across World Health Organization (WHO) regions.  
+- 🧠 The **Global Health Database** - [GitHub_Repo](https://github/AvChilds/
+  > models key health indicators across World Health Organization (WHO) regions.  
 It explores relationships between **health expenditure**, **life expectancy**, and **child mortality**, using structured relational design, SQL joins, stored functions, and data visualisation.
 
 ### Software Engineering Projects

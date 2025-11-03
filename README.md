@@ -45,6 +45,9 @@ Working within multidisciplinary healthcare environments taught me how to handle
 ##  Featured Projects
 
 ### Data Science/Machine Learning /A.I Projects 
+- 🧠 The **Global Health Database** - [GitHub_Repo](https://github.com/AvChilds/sql_global_health)
+  >  This models key health indicators across World Health Organization (WHO) regions.  
+Using SQL, relationships are explored between **health expenditure**, **life expectancy**, and **child mortality** - structured relational design, SQL joins, stored functions, and data visualisation.
 
 - 🏘️ **Predicting High-Occupancy Short-Term Rentals: A Machine Learning Approach** – [GitHub Repo](https://github.com/AvChilds/serviced_accommodation_ML_project)  
   > A +masters final project using machine learning libraries and techniques, including preprocessing, optimisation and validation. Python Libraries used include Sci-Kit Learn, Keras and TensorFlow. The following models are featured: Logistic Regression, K-Nearest Neighbour, Random Forest, Support Vector Machine, Neural Networks.  
@@ -56,9 +59,7 @@ Working within multidisciplinary healthcare environments taught me how to handle
 - 🏘️ **SQL PropertyDB** – [GitHub Repo](https://github.com/AvChilds/SQL-PropertyDB)  
   > A database system built for a fictional Essex-based short-term lettings company. It tracks towns, property listings, and bookings using SQL queries, constraints, views, and stored procedures. Includes data cleaning, JOINs, and revenue analysis using custom SQL functions!
 
-- 🧠 The **Global Health Database** - [GitHub_Repo](https://github.com/AvChilds/sql_global_health)
-  > My first SQL project. This models key health indicators across World Health Organization (WHO) regions.  
-Using SQL, relationships are explored between **health expenditure**, **life expectancy**, and **child mortality** - structured relational design, SQL joins, stored functions, and data visualisation.
+
 
 ### Software Engineering Projects
 

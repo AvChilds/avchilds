@@ -45,6 +45,7 @@ Working within multidisciplinary healthcare environments taught me how to handle
 ##  Featured Projects
 
 ### Data Science/Machine Learning /A.I Projects 
+
 - 🧠 The **Global Health Database** - [GitHub_Repo](https://github.com/AvChilds/sql_global_health)
   >  This models key health indicators across World Health Organization (WHO) regions.  
 Using SQL, relationships are explored between **health expenditure**, **life expectancy**, and **child mortality** - structured relational design, SQL joins, stored functions, and data visualisation.
@@ -60,8 +61,12 @@ Using SQL, relationships are explored between **health expenditure**, **life exp
   > A database system built for a fictional Essex-based short-term lettings company. It tracks towns, property listings, and bookings using SQL queries, constraints, views, and stored procedures. Includes data cleaning, JOINs, and revenue analysis using custom SQL functions!
 
 
-
 ### Software Engineering Projects
+- 🧠 The **Ease App** - [GitHub_Repo](https://github.com/AvChilds/ease-app)
+  > [Presentation Slides](https://www.canva.com/design/DAGrp1GmDPc/xH5o9VV3J9LM_jpIpDRGyA/view?utm_content=DAGrp1GmDPc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5411b50675)
+  > [Video demo](https://www.youtube.com/watch?v=TjAZRHObP3k)
+  > This is a Huddlehive #3 hackathon 2-day project, shortlisted for overall winner presentation.
+  > Contribution: Project ideas, contribution to backend and sample M.L code using python libraries, presentation
 
 - **TT Shop Affiliate DB - Backend fullstack project** – [GitHub Repo](https://github.com/avchilds/tt_affiliate_shop_fullstack)  
   > This is a backend fullstack project, simulating the tiktok shop affiliate programme, combining the use of mySQL, python and APIs.

@@ -1,8 +1,8 @@
  ## 👋 Hi, I'm Avril
 
-Passion about all things data, trained in **Data Science and Machine Learning** with a distinction in the **Code First Girls Data Science nanodegree** and a strong professional background in healthcare and property.
+Passion about all things data, trained in **Data Science and Machine Learning** with a distinction in the **Code First Girls Data Science nanodegree and "+masters" bootcamp and a strong professional background in healthcare and property.
 
-One of missions is to bridge the gap between **clinical understanding and data-driven insight** - using analytics and AI to improve outcomes, optimise operations, and support evidence-based decision making.
+One of my missions is to bridge the gap between **clinical understanding and data-driven insight** - using analytics and AI to improve outcomes, optimise operations, and support evidence-based decision making. 
 
 I also have a strong background in **property and investment**, with a deep-seated interest in the application of machine learning and A.I tools to support and enhance deal sourcing and analysis. 
 
@@ -18,9 +18,9 @@ Working within multidisciplinary healthcare environments taught me how to handle
 - Data storytelling and visualisation with Tableau & Power BI 
 - Commitment to privacy, ethics, and high data quality standards 
 
-🎯 **Current Focus:** Building data and ML pipelines and exploring AI applications in health analytics and operations.
+🎯 **Current Focus:** Completing the full data cycle - Building data and ML pipelines, deployment and exploring AI applications in health analytics and operations.
 
-📚 **Certification:** Code First Girls Data Science Nanodegree – *Distinction* , BSc(HON )Nursing with Registration (King's College London) 
+📚 **Certification:** Code First Girls Data Science nanodegree – *Distinction* , BSc(HON )Nursing with Registration (King's College London) 
 
 💬 **Connect with me:** [LinkedIn](https://linkedin.com/in/avchilds)
 

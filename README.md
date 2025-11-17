@@ -1,6 +1,6 @@
  ## 👋 Hi, I'm Avril
 
-Passion about all things data, trained in **Data Scienceand Machine Learning** with a distinction in the **Code First Girls Data Science nanodegree** and a strong professional background in healthcare and property.
+Passion about all things data, trained in **Data Science and Machine Learning** with a distinction in the **Code First Girls Data Science nanodegree** and a strong professional background in healthcare and property.
 
 One of missions is to bridge the gap between **clinical understanding and data-driven insight** - using analytics and AI to improve outcomes, optimise operations, and support evidence-based decision making.
 
